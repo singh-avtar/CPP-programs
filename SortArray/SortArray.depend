@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589230726 source:c:\users\e6440\documents\c++ projects\sortarray\main.cpp
+	<iostream>
+	<cstdlib>
+

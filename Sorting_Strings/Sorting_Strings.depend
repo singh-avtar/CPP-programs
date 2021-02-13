@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587851561 source:c:\users\e6440\documents\c++ projects\sorting_strings\main.cpp
+	<iostream>
+	<string>
+
